@@ -1,0 +1,7 @@
+requires, or error thrown if no target
+/console scriptErrors 0
+
+```
+/use Tainted Core
+/run f=SendChatMessage w="WHISPER"c="Tainted Core"t="target"u=UnitName(t)if IsItemInRange(c,t)==1 then f("You have the "..c,w,nil,u)f(u.." has "..c,"RAID")else f("Can't throw core at you. Get close!",w,nil,u)Minimap:PingLocation(0,0)end
+```

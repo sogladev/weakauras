@@ -1,0 +1,35 @@
+#showtooltip Force of Nature
+/use 13
+/use 14
+/cast [@cursor] !Force of Nature
+/petpassive
+/petattack
+
+#showtooltip
+/dismount
+/cast !Moonkin Form
+
+/cast Nature's Swiftness
+/cast Healing Touch(Rank 15)
+
+#showtooltip Starfire
+/petattack
+/use [group:raid] Potion of Speed
+/use 13
+/use 14
+/use 10
+/cast starfire
+
+#showtooltip Starfire
+/petattack
+/use [group:raid] Potion of Speed
+/use 13
+/use 14
+/use 10
+/cast starfire
+
+#showtooltip Wrath
+/use 13
+/use 14
+/cast wrath
+

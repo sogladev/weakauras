@@ -1,6 +1,3 @@
-# weakauras-macros
-copy of macros and weakauras submitted to wago.io as https://wago.io/p/sogla
-
 ## Mage - Portal Teleport Panel - Show with macro
 Cata portal_panel_cataclysm.txt
 WOTLK portal_panel_wotlk.txt
