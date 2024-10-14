@@ -24,11 +24,6 @@ note: Regarding "Warnings". WA will show "Secure frame" warning which is normal 
 created by Sogla
 
 
-## Gold Scam WeakAura hidden inside (XP Gain by mob kills)
-private https://wago.io/yncB44k3E
-https://youtu.be/BO4n3IO1g_c
-gold_scam_weakaura_inside_xp.txt
-
 ## Myu's Qiraji Fishing Helper (Sogle mod)
 myus_qiraji_fishing_helper_sogle_mod.txt
 Puts the amount of slayers as a global variable
@@ -62,7 +57,7 @@ Changed DEFAULT_...:AddMessage() protected? function to a print. Keeps throwing 
 queue_for_beta_dungeons.txt
 This addon will be/is broken as of ICC release with new dungeon finder changes 9/10/23
 
-``
+```
 live  C_LFGList.CreateListing(activityIDs [, newPlayerFriendly])
 PTR  C_LFGList.CreateListing(lfgID, itemLevel, honorLevel, autoAccept, privateGroup[, questID], dungeonScore, pvpRating, playstyle)
 ```
@@ -195,6 +190,11 @@ Announces raid/party chat when cast Ritual of Summoning
 ## Rebirth Whisper and Raid Announcer
 druid_announce_rebirth.txt
 Announces Rebirth in bg/raid/party and sends a whisper when rebirth is cast successfully
+
+## Gold Scam WeakAura hidden inside (XP Gain by mob kills)
+private https://wago.io/yncB44k3E
+https://youtu.be/BO4n3IO1g_c
+gold_scam_weakaura_inside_xp.txt
 
 ## Tainted core
 /console scriptErrors 0
